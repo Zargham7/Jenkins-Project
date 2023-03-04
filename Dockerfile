@@ -1,2 +1,2 @@
-FROM user469/apache2
+FROM user469/image
 ADD . /var/www/html/
